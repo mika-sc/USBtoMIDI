@@ -4,7 +4,7 @@
 
 To get Gerber file, please go to "Releases".
 
-Open it in EasyEDA! (lceda.cn)
+Open it in EasyEDA! (https://lceda.cn)
 
 Breadboard version: https://github.com/gdsports/midiuartusbh
 
